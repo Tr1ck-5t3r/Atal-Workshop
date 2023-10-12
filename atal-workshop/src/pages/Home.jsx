@@ -1,7 +1,11 @@
+import Hero from '../components/Hero'
+import AboutAtal from '../components/AboutAtal'
+
 function Home() {
   return (
     <div>
-          hi
+      <Hero />
+      <AboutAtal />
     </div>
   )
 }

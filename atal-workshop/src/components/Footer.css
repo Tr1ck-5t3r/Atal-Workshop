@@ -1,5 +1,5 @@
 .container-footer {
-    background-color: #000;
+    background-color: #04081c;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -39,7 +39,6 @@
 }
 
 .content-footer {
-    background-color: #000;
     display: flex;
     justify-content: left;
     align-items: flex-start;
